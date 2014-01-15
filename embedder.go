@@ -6,7 +6,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/cratonica/embed"
+	"github.com/overlordtm/embed"
 	"os"
 )
 
